@@ -15,7 +15,7 @@ function tailsNeverFails() {
   }
 
   while (maybeTrue()) {
-    
+    console.log("")
   }
 
 }
