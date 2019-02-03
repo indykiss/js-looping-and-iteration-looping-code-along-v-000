@@ -3,5 +3,5 @@
 
 
 function printBadges() {
-  
+  console.log()
 }
