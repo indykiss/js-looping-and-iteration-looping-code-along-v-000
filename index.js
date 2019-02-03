@@ -11,6 +11,7 @@ function printBadges(arr) {
 
 function tailsNeverFails() {
   function maybeTrue() {
+      let i  = 0 
       return Math.random() >= 0.5;
   }
 
