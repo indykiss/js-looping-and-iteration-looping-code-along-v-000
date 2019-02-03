@@ -11,4 +11,5 @@ function printBadges(arr) {
 
 function tailsNeverFails() {
   Math.random()
+  
 }
