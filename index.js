@@ -4,7 +4,7 @@
 
 function printBadges(arr) {
   for (i = 0, i < arr.length; i++) {
-    console.log("Welcome ${names[i]}! ")
+    console.log("Welcome ${names[i]}! You are employee number")
   }
 
 }
